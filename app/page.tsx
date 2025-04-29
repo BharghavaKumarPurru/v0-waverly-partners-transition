@@ -177,8 +177,7 @@ export default function Home() {
             }),
             }}
         />
-        </Head>
-
+      </Head>
 
       <main className="flex-1">
         {/* Hero Section */}
