@@ -486,7 +486,7 @@ export default function Home() {
                 {
                   name: "Heidi G. Milosovic",
                   title: "Managing Partner – Cleveland, OH",
-                  image: "/heidi-profile.jpg",
+                  image: "/heidi-profile.jpeg",
                   email: "HMilosovic@Waverly-Partners.com",
                   office: "440.355.6629",
                   mobile: "216.387.0832",
